@@ -1,0 +1,16 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Pruebas en <GifItem.jsx> > should match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      src="https://dragon-ball.com/goku.jpg"
+    />
+    <p>
+      Dragon Ball
+    </p>
+  </div>
+</div>
+`;
